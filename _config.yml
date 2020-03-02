@@ -41,3 +41,5 @@ author:
 version: 3.0.0
 github:
   repo: https://github.com/poole/poole
+
+theme: jekyll-theme-architect
